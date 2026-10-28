@@ -1,0 +1,8 @@
+{
+  "name": "solbaram",
+  "version": "1.0.0",
+  "private": true,
+  "description": "솔바람 마을 - 친구끼리 하는 클래식 감성 모바일 RPG",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
